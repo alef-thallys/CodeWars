@@ -1,2 +1,2 @@
 # CodeWars
-here is the description and solution of some codewars challenges
+Here is the description and solution of some codewars challenges

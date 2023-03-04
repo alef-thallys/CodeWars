@@ -10,4 +10,3 @@ function countBits(n) {
   });
   return sum;
 }
-console.log(countBits(1234));
